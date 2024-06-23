@@ -14,7 +14,7 @@ A Library Management System made using the concepts of Object Oriented Analysis 
 The **Class Diagram** of the project is also provided along with the **Database Schema** file. The class diagram file can be opened using [Star UML](http://staruml.io/).
 
 ## Class Diagram
-![class diagram](../master/images/diagram.PNG)
+![class diagram](diagram.PNG)
 
 **Note**: After Refactoring, new Class "HoldRequestOperations" is added to the above structure which lies in between the HoldRequest class and Book class.
 This class removes the bidirectional dependency between HoldRequest and Book. More details mentioned [here](https://github.com/OSSpk/Library-Management-System-JAVA/issues/9) 
