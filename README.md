@@ -21,8 +21,8 @@ This class removes the bidirectional dependency between HoldRequest and Book. Mo
 
 ## Interface
 <p align="middle">
-   <img src="../master/images/interface.PNG" width="400"/>
-   <img src="../master/images/interface2.PNG" width="400"/>
+   <img src="..interface.PNG" width="400"/>
+   <img src="..interface.PNG" width="400"/>
 </p>   
 
 ## Actors:
