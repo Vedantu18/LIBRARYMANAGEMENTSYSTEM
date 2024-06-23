@@ -78,7 +78,7 @@ borrowed.
 
 **Step 1:** In the Netbeans Window, there is a tab named "Services" on the left. Select it. Then right click on JavaDB > Properties and    change database location to "Database" folder downloaded with this repository (its placed besides the "Project" folder).
 
-![step1](../master/images/step1.PNG)
+![step1](..step1.PNG)
    
 **Step 2:** After that a database named LMS will show up under JavaDB tab. Now Right Click Databases > New Connection and select Java DB Network and click Next. 
 
